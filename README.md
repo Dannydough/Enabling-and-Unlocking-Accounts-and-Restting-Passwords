@@ -89,8 +89,15 @@ Configuration: Double-click the setting, select Define this policy setting, and 
 <img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7) Link the GPO to an Organizational Unit (OU)
 
-To apply the GPO, link it to the desired OU or domain:
-In the GPMC, right-click the target OU or domain, and select Link an Existing GPO.
-Select the GPO you created or modified, then click OK.
+7) Force Update Group Policy
+- Open the Command Prompt on a client machine or server.
+- Type the following command:
+- Copy code:
+- gpupdate /force  
+- Press Enter to execute the command.
+
+<p>
+<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
