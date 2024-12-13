@@ -176,3 +176,24 @@ Log in using the re-enabled account to confirm successful access.
 <p>
 <img src="https://imgur.com/8lmLetj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+16) Check Logs on the Domain Controller
+
+- Open Event Viewer on the Domain Controller as Admin using Jane cridentails.
+<p>
+<p>
+<img src="https://imgur.com/qZnjaHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+- Navigate to Windows Logs > Security to review login attempts, account lockouts, and related security events.
+<p>
+<p>
+<img src="https://imgur.com/qZnjaHr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+- Check Logs on the Client Machine
+Open Event Viewer on the client machine.
+Navigate to Windows Logs > Security to review failed login attempts and any associated error messages.
+
+<p>
+<p>
+<img src="https://imgur.com/BSQdlle.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
