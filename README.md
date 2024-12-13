@@ -147,18 +147,28 @@ results are successful
 <img src="https://imgur.com/PpbSD6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <p>
+<p>
 <img src="https://imgur.com/Eayds2f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <p>
+<p>
 <img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 14) Try logging in with the disabled account and note the error message displayed.
 Re-enable the Account
-
+<p>
+<img src="https://imgur.com/gEcLHFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 15) In Active Directory, re-enable the account.
 Attempt to Log In Again
-
+<p>
+<p>
+<img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Log in using the re-enabled account to confirm successful access.
