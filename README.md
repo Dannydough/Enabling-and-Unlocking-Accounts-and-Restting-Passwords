@@ -110,3 +110,35 @@ Verify in Active Directory that the account has been locked out.
 <img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+9) Unlock the account in Active Directory.
+
+-   Go to Active Directory Users and Computers > _EMPLOYEES
+
+<p>
+<img src="https://imgur.com/ndmJ4n0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+-  Go to the Find function > go type in the username of the person being disabled.
+  <p>
+<img src="https://imgur.com/XJVQ2QW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- 
+  <p>
+<img src="https://imgur.com/R93H7LX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+11) Reset the account's password.
+
+<p>
+<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+11)Attempt to log in using the new password.
+
+<p>
+<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
