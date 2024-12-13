@@ -96,6 +96,15 @@ Configuration: Double-click the setting, select Define this policy setting, and 
 - Copy code:
 - gpupdate /force  
 - Press Enter to execute the command.
+**CHANGE THEE PIC. BELOW 
+<p>
+<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+8) Attempt to log in 3 times using an incorrect password.
+
+Verify in Active Directory that the account has been locked out.
 
 <p>
 <img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
