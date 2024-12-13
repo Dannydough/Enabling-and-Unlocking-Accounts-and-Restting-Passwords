@@ -129,16 +129,9 @@ Verify in Active Directory that the account has been locked out.
 <img src="https://imgur.com/R93H7LX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-11) Reset the account's password.
-
-<p>
-<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 11)Attempt to log in using the new password.
 
 <p>
-<img src="https://imgur.com/R37YIbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gwf8zT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
