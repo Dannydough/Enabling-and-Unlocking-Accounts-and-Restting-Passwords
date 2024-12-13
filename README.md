@@ -165,10 +165,14 @@ Re-enable the Account
 Attempt to Log In Again
 <p>
 <p>
-<img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ehGoVUD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/e4zokvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Log in using the re-enabled account to confirm successful access.
+<p>
+<p>
+<img src="https://imgur.com/8lmLetj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
