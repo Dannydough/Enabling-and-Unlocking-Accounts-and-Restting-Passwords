@@ -124,13 +124,18 @@ Verify in Active Directory that the account has been locked out.
 <img src="https://imgur.com/XJVQ2QW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Double click on the username and the "Properties" tab should pop up. From, there click "Account". Then checkmark the Unlock account the account is currently loaded out of the Active Directory Domain Controller".
+- Double click on the username and the "Properties" tab should pop up. From, there click "Account". Then checkmark the Unlock account the account is currently loaded out of the Active Directory Domain Controller". & reset the password.
   <p>
 <img src="https://imgur.com/R93H7LX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11)Attempt to log in using the new password.
 
+<p>
+<img src="https://imgur.com/RRRWkHQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+11)Attempt to log in with the correct password with the client-1 desktop.
+results are successful
 <p>
 <img src="https://imgur.com/gwf8zT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
