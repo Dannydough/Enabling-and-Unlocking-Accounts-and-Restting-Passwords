@@ -124,7 +124,7 @@ Verify in Active Directory that the account has been locked out.
 <img src="https://imgur.com/XJVQ2QW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- 
+- Double click on the username and the "Properties" tab should pop up. From, there click "Account". Then checkmark the Unlock account the account is currently loaded out of the Active Directory Domain Controller".
   <p>
 <img src="https://imgur.com/R93H7LX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
