@@ -1,22 +1,32 @@
 <p align="center">
-<img src="https://i.imgur.com/AeiqMDZ.png" alt="Traffic Examination"/>
-</p>
+<img src="https://i.imgur.com/aMMGyHQ.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<br />
 
-<h1>Network-File-Shares-and-Permissions</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Preparing Active Directory Infrastructure in Azure</h1>
 
-<h2>Environments and Technologies Used</h2>
+ ###
 
-- Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
-- Remote Desktop
-- Shared Network Files
+<h2>Description</h2>
+In this project, I set up two Virtual Machines (VMs): one running Windows Server, configured as a Domain Controller, and the other running Windows 10, acting as a client that joins the domain. In future projects, I will deploy Active Directory (AD), execute scripts to create domain users, log into these accounts from the client VM, manage user accounts, and update group policies. This setup effectively simulates a real-world IT environment!
+<br />
+
+
+<h2>Environments and Utilities Used</h2>
+
+- <b>Microsoft Azure</b>
+- <b>Virtual Machines</b>
+- <b>Remote Desktop Connection</b>
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- <b>Windows Server </b>
+- <b>Windows 10 Pro</b>
+
+<h2>Project Walk-through:</h2>
 
   1) Handling Account Lockouts
-Access the DC-1 Server
+- Access the DC-1 Server
 
 <p>
 <img src="https://imgur.com/Dxs8Ad9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
