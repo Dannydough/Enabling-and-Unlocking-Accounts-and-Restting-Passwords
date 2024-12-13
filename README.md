@@ -134,9 +134,31 @@ Verify in Active Directory that the account has been locked out.
 <img src="https://imgur.com/RRRWkHQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11)Attempt to log in with the correct password with the client-1 desktop.
+11) Attempt to log in with the correct password with the client-1 desktop.
 results are successful
 <p>
 <img src="https://imgur.com/gwf8zT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+12) Enabling and Disabling Accounts
+- Disable the Account
+- In Active Directory, locate and disable the account.
+<p>
+<img src="https://imgur.com/PpbSD6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://imgur.com/Eayds2f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://imgur.com/T59sU1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+14) Try logging in with the disabled account and note the error message displayed.
+Re-enable the Account
+
+15) In Active Directory, re-enable the account.
+Attempt to Log In Again
+
+Log in using the re-enabled account to confirm successful access.
